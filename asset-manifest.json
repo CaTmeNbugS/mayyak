@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mayyak/static/css/main.37b93b5a.css",
+    "main.js": "/mayyak/static/js/main.17ea42b5.js",
+    "static/js/787.41a378ef.chunk.js": "/mayyak/static/js/787.41a378ef.chunk.js",
+    "index.html": "/mayyak/index.html",
+    "main.37b93b5a.css.map": "/mayyak/static/css/main.37b93b5a.css.map",
+    "main.17ea42b5.js.map": "/mayyak/static/js/main.17ea42b5.js.map",
+    "787.41a378ef.chunk.js.map": "/mayyak/static/js/787.41a378ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37b93b5a.css",
+    "static/js/main.17ea42b5.js"
+  ]
+}
